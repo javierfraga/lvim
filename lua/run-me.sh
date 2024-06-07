@@ -1,3 +1,3 @@
 #!/bin/bash
 
-ln -s ~/.config/nvim/lua/nvim-configs ~/.config/lvim/lua/nvim-configs
+ln -s "$HOME/.config/nvim/lua/nvim-configs" "$HOME/.config/lvim/lua/nvim-configs"

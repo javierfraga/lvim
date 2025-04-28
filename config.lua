@@ -56,4 +56,5 @@ table.insert(plugins, unpack(require("lvim-plugins.trouble")))
 table.insert(plugins, unpack(require("lvim-plugins.vim-easy-align")))
 table.insert(plugins, unpack(require("lvim-plugins.vim-surround")))
 table.insert(plugins, unpack(require("lvim-plugins.vim-tmux-navigator")))
+table.insert(plugins, unpack(require("lvim-plugins.nvim-osc52")))
 lvim.plugins = plugins

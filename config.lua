@@ -43,6 +43,9 @@ reload("nvim-configs.diff-unsaved")
 reload("nvim-configs.file-dir-path")
 reload("nvim-configs.quickfix-nav")
 reload("nvim-configs.cheatsheets")
+reload("nvim-configs.sessions")
+reload("nvim-configs.container-paste-cleanup")
+
 
 -- LVIM configurations
 reload("lvim-configs.keymaps")
